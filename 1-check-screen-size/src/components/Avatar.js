@@ -9,7 +9,7 @@ const Avatar = ({ name }) => {
   };
 
   return (
-    <div className='avatar'>
+    <div>
       <BigHead {...avatarProps[name]} />
       <h2>{name}</h2>
     </div>

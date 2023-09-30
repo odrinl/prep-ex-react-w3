@@ -8,20 +8,9 @@ body {
 
 .app {
   text-align: center;
-  margin-top: 20px;
 }
 
 .avatar-container {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
-}
-
-.avatar {
-  margin: 20px;
-  text-align: center;
-}
-
-h2 {
-  margin-top: 10px;
 }
